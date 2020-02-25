@@ -1,1 +1,1 @@
-# morvernm.github.io
+# Simple website for cognitive psych group project
