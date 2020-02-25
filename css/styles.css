@@ -1,4 +1,4 @@
-/*general changes to body and text*/
+/*general changes to body and headers*/
 
 body {
   font-family: "Poppins", sans-serif;
@@ -60,6 +60,18 @@ h2 {
   margin-left: 20px;
 }
 
+/*changing width of image section*/
+
+.step-figure {
+  width: 50%;
+}
+
+/*adding bottom margin to images*/
+
+.rounded {
+  margin-bottom: 20px;
+}
+
 /* image copyright text */
 
 .copyright {
@@ -68,7 +80,7 @@ h2 {
   font-size: 0.75em;
 }
 
-/* overriding boostrap on home images */
+/*/centering footer link/*/
 
 footer {
   display: flex;
